@@ -1,3 +1,4 @@
+//my ID is 10965604 and name is Richard Djirackor
 #include <stdio.h>
 int main(){
 	float sum=0,count=0,average;
